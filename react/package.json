@@ -1,6 +1,6 @@
 {
   "name": "react-text-mask-android-fix",
-  "version": "5.4.4",
+  "version": "5.4.5",
   "description": "React input component that accepts mask pattern",
   "main": "dist/reactTextMask.js",
   "author": "dr.deser@tut.by",
